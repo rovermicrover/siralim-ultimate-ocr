@@ -1,0 +1,5 @@
+This small-time outlaw specializes in raiding caravans. It stays hidden behind
+the bushes and shoots at the wheels to damage them with its powerful
+weapon. It then lets its teammates do the dirty work, though if it looks like they
+are at a disadvantage it will attack the enemies, pulverizing limbs and armor
+with a single shot.

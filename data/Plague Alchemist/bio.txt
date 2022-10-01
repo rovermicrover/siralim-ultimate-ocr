@@ -1,0 +1,9 @@
+Plague Doctors have a strange fondness for traveling the world, curing any sick
+creature they find.
+
+When a Plague Alchemist finds a wounded person, it does not merely heal
+their wounds. With a whisper, it asks the patient whether they were caused by
+another. With just a description, this creature finds the perpetrator and waits for
+them to become distracted. Then it pours the contents of its test tube into a
+glass. When drunk, the strange liquid causes the same injuries on the
+aggressor's body.

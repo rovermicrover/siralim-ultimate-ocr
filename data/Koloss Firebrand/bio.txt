@@ -1,0 +1,8 @@
+When a Koloss's puppet is hit by a weapon or a spell, its true, steel body is also
+damaged. However, the puppet is not affected by any damage to the blade,
+unless, of course, it is completely destroyed.
+
+The fire of the Koloss Firebrand's puppet is generally not deadly, but it is
+essential when forging another Koloss. That is why Koloss Firebrands are
+respected and even revered within their communities, especially during the
+ceremony in which a new Koloss is finally brought to life.

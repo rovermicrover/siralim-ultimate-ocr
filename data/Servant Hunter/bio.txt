@@ -1,0 +1,5 @@
+Sometimes, a group of Hunters is defeated by other creatures or by the ruler of
+a kingdom on their way to conquer all of Radia. If one of them survives, it will
+look for another group of Hunters to join so that it can be among its own and
+survive. However, when this happens, it becomes the lowest in the hierarchy of
+the group and must obey every order it receives.

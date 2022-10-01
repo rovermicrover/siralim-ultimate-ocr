@@ -1,0 +1,7 @@
+When a necromancer creates an Animation, the rest of the body that part
+belonged to turns to dust after a few seconds. In addition, the size of the body
+part increases considerably.
+
+Necromancers who bring Eye Animations to life often place them outside their
+lairs to keep an eye on the horizon, as their sharp vision allows them to see any
+detail within three miles.

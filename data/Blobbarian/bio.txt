@@ -1,0 +1,8 @@
+Concoctions are relatively simple creatures whose purpose is to eliminate any
+unauthorized lifteforms within the Caustic Reactor.
+
+When a Blobbarian enters combat, the whole battlefield trembles in its wake —
+or it would if this creature were made of solid matter. Regardless, a Blobbarian
+never stops fighting, as if it were a reckless warrior who did not fear death. Of
+course, unlike such a warrior, this creature does not fall dead when split into
+two by a blade.

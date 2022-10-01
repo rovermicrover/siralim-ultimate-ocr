@@ -1,0 +1,9 @@
+The average battery life of a Construct has been estimated to be 1000 days,
+which is when the battery has lost too much charge and the creature stops
+moving permanently. The batteries cannot be replaced, so the construct must
+be discarded, although the material of which its body is made can be reused.
+
+The Bloodmail Construct was created with the main purpose of preventing
+civilians and soldiers from bleeding to death. At a touch of its armor, the blood
+is partially returned to the circulatory system, giving the doctors more options to
+save their life.

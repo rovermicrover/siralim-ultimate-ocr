@@ -1,0 +1,7 @@
+No matter how damaged its armor is, a Phase Warrior will keep moving until its
+core is destroyed.
+
+The first Phase Knights belonged to the royal guard of Siralim, who sacrificed
+themselves so that the young prince could escape from Sigmund. They are
+honorable creatures that protect the innocent at the cost of taking damage. In
+addition, their shield can absorb the effects of many spells.

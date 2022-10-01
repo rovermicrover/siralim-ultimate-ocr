@@ -1,0 +1,4 @@
+The Consuming Vortex tries to go unnoticed during battles, pretending to be a
+spell that another creature cast. If it manages to reach an enemy, it will absorb
+its life energy, creating a vortex of colors around it. If a spell hits its body, it can
+absorb it temporarily and use it as its own.

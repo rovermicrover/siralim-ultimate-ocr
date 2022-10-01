@@ -1,0 +1,7 @@
+The Slimes have different abilities depending on the type of magic that
+generated the waste they came from.
+
+The Glutinous Slime's body acts as a catalyst for spells. Although absorbing
+spells can damage its structure, it does not seem to mind, and always
+intercepts them to channel their energy and share it with its allies, making them
+more powerful.

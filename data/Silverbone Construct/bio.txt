@@ -1,0 +1,10 @@
+At present, some Constructs serve as labor for the heavier jobs such as
+construction or mining. When the war against an old ruler of Siralim came to an
+end, they became important assets in the reconstruction of the country.
+
+When a Silverbone Construct meets an enemy, the eyes on its armor's skulls
+shine with a ghostly blue flame. An eerie voice then emanates from within,
+whispering continuously, until it suddenly explodes into a bloodcurdling scream.
+This feature was added for frightening enemies, but in the end, it mainly served
+as an alarm during attacks, and to scare civilians so they got to safety more
+quickly.

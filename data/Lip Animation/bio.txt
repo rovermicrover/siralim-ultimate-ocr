@@ -1,0 +1,7 @@
+The lifespan of an Animation is very short, barely reaching three months,
+unless its creator or current master gives it a Spell Gem for it to absorb.
+
+The Lip Animation cannot avoid eating or drinking whatever is in front of it,
+unless their master gives an order to the contrary every few minutes. Most of
+the time, food and liquid just pass through it, but boiling water or fish bones can
+cause serious damage to these creatures.

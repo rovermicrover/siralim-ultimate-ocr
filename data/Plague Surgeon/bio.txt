@@ -1,0 +1,8 @@
+To diagnose their patients, Plague Doctors observe them closely for a while,
+explore their bodies, and demand information from the people around them,
+pointing first to the patient and then to their mouths.
+
+The Plague Surgeon is an expert in open-body surgery. Sometimes it finds that
+a disease has been caused by someone else. In such cases, the author of the
+damage awakens one morning with the same affliction, and no Plague Doctor
+will watch over them.

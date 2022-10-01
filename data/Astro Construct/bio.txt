@@ -1,0 +1,9 @@
+Constructs need sunlight in order to move. They have batteries inside them
+that gather this energy, but this is not an efficient way of recharging them
+during the rainy seasons or in places where the sky is often cloudy. In response
+to this, several alternatives have been devised: buying pre-charged batteries,
+recharging the batteries with spells, and the Astro Construct. This creature is
+constantly receiving energy, not only from the sun, but also from the stars and
+the moon, thanks to its much more powerful light receptors. Because this
+cutting-edge technology requires the use of one Nether Orb for every one
+hundred receptors, its price is simply astronomical.

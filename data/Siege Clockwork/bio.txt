@@ -1,0 +1,9 @@
+Clockworks make sure that everything in Damarel works properly. Each one
+has its role, and they only act based on contingencies that are rarely too
+complex.
+
+Alexandria built the Siege Clockwork for the purpose of transporting material
+from one place to another through the intricate maze of rails that runs through
+the cogs of Damarel. Nowadays, with the arrival of outsiders, these creatures
+also transport other Clockworks so they can face any threat as quickly as
+possible.

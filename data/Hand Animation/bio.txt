@@ -1,0 +1,7 @@
+If an Animation takes damage, the necromancer who created it will feel a
+shooting pain in the same part of the body the Animation was made from.
+
+When a Hand Animation spends too much time idle, their fingers begin to tap
+against the surface they are on. On one occasion, a necromancer who was in
+the Great Pandemonium watched as one of these creatures was consumed by
+the lava when it carried out this movement.

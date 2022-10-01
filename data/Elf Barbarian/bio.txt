@@ -1,0 +1,8 @@
+The Elves inhabit the dark forests in the southern regions of the Rodian
+Cutthroat Jungle, and they are not exactly kind to visitors. The Centaurs tried to
+conquer their home thousands of years ago, and there has been little love
+between the two races since then.
+
+When an Elf Barbarian finds someone lurking around its territory, it will charge
+towards them with a battle cry, then jump while raising its weapons to deliver a
+powerful blow.

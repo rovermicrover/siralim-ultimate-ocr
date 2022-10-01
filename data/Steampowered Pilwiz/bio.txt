@@ -1,0 +1,7 @@
+Due to the extreme difference between the human and Pilwiz voice tracts, both
+species jointly developed a simple sign language to allow communication
+between them.
+
+Harsh weather can sometimes prevent Pilwiz and other farmers from taking
+care of their crops. Aware of this, the engineers of Nex designed an automaton
+that can perform these activities in the extreme cold and the suffocating heat.

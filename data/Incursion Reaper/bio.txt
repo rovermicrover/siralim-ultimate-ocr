@@ -1,0 +1,7 @@
+Despite their unsettling appearance and the sharp scythe they carry with them,
+Reapers are not aggressive unless they are attacked. They have eternal life
+and are immune to all diseases. However, they are not immune to the effects
+of magic.
+
+If a creature's time has not yet come, the Incursion Reaper may decide to use
+its scythe to return it fo a previous state where it was healthy.
