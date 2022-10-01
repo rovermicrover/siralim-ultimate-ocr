@@ -26,7 +26,8 @@ class Job
   def bio_csv
     @bio_image_ocr ||= begin
       unless File.file?(self.bio_csv_path)
-        CSV.open(self.bio_csv_path, 'w', headers: ['name','bio']) do |csv|
+        CSV.open(self.bio_csv_path, 'w') do |csv|
+          csv << ["name", "bio"]
           self.creatures.each do |c|
             csv << [c.name, c.bio_text]
           end
